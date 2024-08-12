@@ -1,7 +1,6 @@
 // import { Sidebar } from "./Components/Sidebar/Sidebar.jsx"
 import { Dashboard } from "./Components/Dashboard/Dashboard.jsx"
 import { Sidebar } from "./Components/Sidebar/Sidebar.jsx"
-import { data } from "./Services/api.jsx"
 
 export const App = () => {
 

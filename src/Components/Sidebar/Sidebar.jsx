@@ -29,7 +29,7 @@ export const Sidebar = () => {
         setIsDrawerOpen(false);
         // console.log(isDrawerOpen)
     }
-    console.log(isDrawerOpen)
+    // console.log(isDrawerOpen)
 
 
     return (

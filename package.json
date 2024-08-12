@@ -1,6 +1,7 @@
 {
-  "name": "integracao-tray",
+  "name": "front",
   "private": true,
+  "homepage": "http://moubra.web15f98.uni5.net/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
